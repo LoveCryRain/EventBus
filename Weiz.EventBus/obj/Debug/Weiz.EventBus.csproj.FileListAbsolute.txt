@@ -1,0 +1,16 @@
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\bin\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus.Core\obj\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\bin\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\bin\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\obj\Debug\Weiz.EventBus.dll
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\obj\Debug\Weiz.EventBus.pdb
+D:\vs2015\Weiz.EventBus-master\Weiz.EventBus\bin\Debug\EventBus.xml
+D:\gittest\01EventBus\Weiz.EventBus\bin\Debug\EventBus.xml
+D:\gittest\01EventBus\Weiz.EventBus\bin\Debug\Weiz.EventBus.dll
+D:\gittest\01EventBus\Weiz.EventBus\bin\Debug\Weiz.EventBus.pdb
+D:\gittest\01EventBus\Weiz.EventBus\obj\Debug\Weiz.EventBus.csproj.AssemblyReference.cache
+D:\gittest\01EventBus\Weiz.EventBus\obj\Debug\Weiz.EventBus.csproj.CoreCompileInputs.cache
+D:\gittest\01EventBus\Weiz.EventBus\obj\Debug\Weiz.EventBus.dll
+D:\gittest\01EventBus\Weiz.EventBus\obj\Debug\Weiz.EventBus.pdb
